@@ -53,7 +53,7 @@ The http://www.jhipster.tech/installation/[Installing JHipster] instructions sho
 
 . Install Java 11 https://sdkman.io/[using SDKMAN!]
 . Install Git from https://git-scm.com.
-. Install Node.js from http://nodejs.org. JHipster recommends using a LTS release. https://nodejs.org/download/release/v10.16.0/ .
+. Install Node.js from http://nodejs.org. JHipster recommends using a LTS release. https://nodejs.org/download/release/v12.22.12/ .
 . Run the following command to install JHipster.
 
     npm i -g generator-jhipster@6.1.2
